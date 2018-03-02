@@ -1,0 +1,12 @@
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\bin\Debug\MiPrimerProyectoEnVB.exe.config
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\bin\Debug\MiPrimerProyectoEnVB.exe
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\bin\Debug\MiPrimerProyectoEnVB.pdb
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\bin\Debug\MiPrimerProyectoEnVB.xml
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\obj\Debug\MiPrimerProyectoEnVB.vbprojResolveAssemblyReference.cache
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\obj\Debug\MiPrimerProyectoEnVB.Form1.resources
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\obj\Debug\MiPrimerProyectoEnVB.Resources.resources
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\obj\Debug\MiPrimerProyectoEnVB.vbproj.GenerateResource.Cache
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\obj\Debug\MiPrimerProyectoEnVB.vbproj.CoreCompileInputs.cache
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\obj\Debug\MiPrimerProyectoEnVB.exe
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\obj\Debug\MiPrimerProyectoEnVB.xml
+C:\Users\Ip02lt\source\repos\MiPrimerProyectoEnVB\MiPrimerProyectoEnVB\obj\Debug\MiPrimerProyectoEnVB.pdb
